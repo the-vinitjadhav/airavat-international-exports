@@ -112,55 +112,14 @@ img {
 
 /* Alternative SVG Logo Styles */
 .logo-image {
-    height: 40px !important;
-    width: auto !important;
+    height: 60px !important;
+    width: 280px !important;
 }
 
-.logo-image[src*=".svg"] {
-    height: 40px;
-    width: auto;
-}
 
-/* Container adjustment for logo */
-.logo {
-    display: flex;
-    align-items: center;
-    height: 60px; /* Match original header height */
-}
 
-.logo a {
-    display: flex;
-    align-items: center;
-    height: 100%;
-    color: #fff;
-    text-decoration: none;
-}
 
-.logo-image {
-    height: 50px;
-    width: auto;
-}
 
-/* Responsive */
-@media screen and (max-width: 768px) {
-    .logo-image {
-        height: 35px !important;
-    }
-    
-    .logo {
-        height: 50px;
-    }
-}
-
-@media screen and (max-width: 480px) {
-    .logo-image {
-        height: 30px !important;
-    }
-    
-    .logo {
-        height: 45px;
-    }
-}
 
 #navbar ul {
     display: flex;
