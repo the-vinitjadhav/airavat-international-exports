@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="100" viewBox="0 0 700 100">
+  <!-- Sourcing Icon -->
+  <g transform="translate(0, 0)">
+    <circle cx="50" cy="50" r="45" fill="#e8f5e9" stroke="#27ae60" stroke-width="2"/>
+    <g transform="translate(20, 20)">
+      <!-- Farm/Field Icon -->
+      <path d="M30 5 L50 20 L30 35 L10 20 Z" fill="#81c784" stroke="#27ae60" stroke-width="2"/>
+      <path d="M30 35 L30 55" stroke="#27ae60" stroke-width="2"/>
+      <path d="M20 45 L40 45" stroke="#27ae60" stroke-width="2"/>
+    </g>
+  </g>
+  
+  <!-- Quality Inspection Icon -->
+  <g transform="translate(100, 0)">
+    <circle cx="50" cy="50" r="45" fill="#e8f5e9" stroke="#27ae60" stroke-width="2"/>
+    <g transform="translate(20, 20)">
+      <!-- Magnifying Glass Icon -->
+      <circle cx="25" cy="25" r="15" fill="none" stroke="#27ae60" stroke-width="2"/>
+      <path d="M35 35 L45 45" stroke="#27ae60" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="25" cy="25" r="5" fill="#27ae60"/>
+    </g>
+  </g>
+  
+  <!-- Processing Icon -->
+  <g transform="translate(200, 0)">
+    <circle cx="50" cy="50" r="45" fill="#e8f5e9" stroke="#27ae60" stroke-width="2"/>
+    <g transform="translate(20, 20)">
+      <!-- Gear/Cog Icon -->
+      <circle cx="30" cy="30" r="20" fill="none" stroke="#27ae60" stroke-width="2"/>
+      <circle cx="30" cy="30" r="10" fill="none" stroke="#27ae60" stroke-width="2"/>
+      <path d="M30 0 L30 10" stroke="#27ae60" stroke-width="3"/>
+      <path d="M30 50 L30 60" stroke="#27ae60" stroke-width="3"/>
+      <path d="M0 30 L10 30" stroke="#27ae60" stroke-width="3"/>
+      <path d="M50 30 L60 30" stroke="#27ae60" stroke-width="3"/>
+      <path d="M9 9 L16 16" stroke="#27ae60" stroke-width="3"/>
+      <path d="M44 44 L51 51" stroke="#27ae60" stroke-width="3"/>
+      <path d="M9 51 L16 44" stroke="#27ae60" stroke-width="3"/>
+      <path d="M44 16 L51 9" stroke="#27ae60" stroke-width="3"/>
+    </g>
+  </g>
+  
+  <!-- Packaging Icon -->
+  <g transform="translate(300, 0)">
+    <circle cx="50" cy="50" r="45" fill="#e8f5e9" stroke="#27ae60" stroke-width="2"/>
+    <g transform="translate(20, 15)">
+      <!-- Box/Package Icon -->
+      <path d="M10 20 L50 20 L60 35 L60 65 L0 65 L0 35 Z" fill="none" stroke="#27ae60" stroke-width="2"/>
+      <path d="M0 35 L60 35" stroke="#27ae60" stroke-width="2"/>
+      <path d="M30 35 L30 65" stroke="#27ae60" stroke-width="2" stroke-dasharray="2"/>
+    </g>
+  </g>
+  
+  <!-- Storage Icon -->
+  <g transform="translate(400, 0)">
+    <circle cx="50" cy="50" r="45" fill="#e8f5e9" stroke="#27ae60" stroke-width="2"/>
+    <g transform="translate(15, 15)">
+      <!-- Warehouse Icon -->
+      <path d="M0 30 L35 10 L70 30 L70 70 L0 70 Z" fill="none" stroke="#27ae60" stroke-width="2"/>
+      <path d="M15 40 L30 40 L30 70 L15 70 Z" fill="none" stroke="#27ae60" stroke-width="2"/>
+      <path d="M40 40 L55 40 L55 70 L40 70 Z" fill="none" stroke="#27ae60" stroke-width="2"/>
+    </g>
+  </g>
+  
+  <!-- Logistics & Shipping Icon -->
+  <g transform="translate(500, 0)">
+    <circle cx="50" cy="50" r="45" fill="#e8f5e9" stroke="#27ae60" stroke-width="2"/>
+    <g transform="translate(15, 25)">
+      <!-- Truck Icon -->
+      <path d="M0 30 L50 30 L50 0 L0 0 Z" fill="none" stroke="#27ae60" stroke-width="2"/>
+      <path d="M50 30 L70 30 L70 10 L50 0" fill="none" stroke="#27ae60" stroke-width="2"/>
+      <circle cx="15" cy="30" r="5" fill="none" stroke="#27ae60" stroke-width="2"/>
+      <circle cx="55" cy="30" r="5" fill="none" stroke="#27ae60" stroke-width="2"/>
+    </g>
+  </g>
+  
+  <!-- Customer Support Icon -->
+  <g transform="translate(600, 0)">
+    <circle cx="50" cy="50" r="45" fill="#e8f5e9" stroke="#27ae60" stroke-width="2"/>
+    <g transform="translate(20, 20)">
+      <!-- Headset/Support Icon -->
+      <circle cx="30" cy="30" r="20" fill="none" stroke="#27ae60" stroke-width="2"/>
+      <path d="M30 10 L30 15" stroke="#27ae60" stroke-width="2"/>
+      <path d="M10 30 L10 40 Q10 45 15 45 L20 45" stroke="#27ae60" stroke-width="2" fill="none"/>
+      <path d="M50 30 L50 40 Q50 45 45 45 L40 45" stroke="#27ae60" stroke-width="2" fill="none"/>
+      <path d="M20 45 L40 45 Q45 45 45 40 L45 35" stroke="#27ae60" stroke-width="2" fill="none"/>
+    </g>
+  </g>
+</svg>

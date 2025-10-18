@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <!-- Pomegranate -->
+  <symbol id="pomegranate" viewBox="0 0 200 200">
+    <circle cx="100" cy="100" r="80" fill="#d32f2f" />
+    <circle cx="100" cy="100" r="70" fill="#b71c1c" />
+    <path d="M100,40 Q130,60 130,100 Q130,140 100,160 Q70,140 70,100 Q70,60 100,40" fill="#801313" opacity="0.3" />
+    <circle cx="100" cy="40" r="10" fill="#4e342e" />
+    <path d="M95,40 L105,40 L105,30 L95,30 Z" fill="#4e342e" />
+  </symbol>
+  
+  <!-- Grapes -->
+  <symbol id="grapes" viewBox="0 0 200 200">
+    <g>
+      <circle cx="80" cy="120" r="20" fill="#673ab7" />
+      <circle cx="110" cy="130" r="20" fill="#5e35b1" />
+      <circle cx="90" cy="150" r="20" fill="#512da8" />
+      <circle cx="120" cy="160" r="20" fill="#4527a0" />
+      <circle cx="70" cy="90" r="20" fill="#7e57c2" />
+      <circle cx="100" cy="100" r="20" fill="#673ab7" />
+      <circle cx="130" cy="110" r="20" fill="#5e35b1" />
+      <path d="M100,40 Q120,60 100,80 Q80,60 100,40" fill="#4caf50" />
+      <path d="M100,40 L100,80" stroke="#4caf50" stroke-width="4" />
+    </g>
+  </symbol>
+  
+  <!-- Banana -->
+  <symbol id="banana" viewBox="0 0 200 200">
+    <path d="M50,80 Q80,40 130,50 Q160,60 170,100 Q180,140 150,160 Q120,180 80,160 Q60,150 50,130 Q40,110 50,80" fill="#ffd600" />
+    <path d="M50,80 Q80,40 130,50 Q160,60 170,100" fill="none" stroke="#ffb300" stroke-width="2" />
+    <path d="M60,90 Q90,60 120,65" fill="none" stroke="#ffb300" stroke-width="1" />
+    <path d="M70,100 Q100,70 130,75" fill="none" stroke="#ffb300" stroke-width="1" />
+    <circle cx="50" cy="80" r="5" fill="#795548" />
+  </symbol>
+  
+  <!-- Mango -->
+  <symbol id="mango" viewBox="0 0 200 200">
+    <path d="M100,40 Q150,60 160,110 Q170,160 120,170 Q70,180 50,130 Q30,80 100,40" fill="#ffa000" />
+    <path d="M100,40 Q130,60 140,100" fill="none" stroke="#ff8f00" stroke-width="2" />
+    <path d="M100,40 Q70,60 60,100" fill="none" stroke="#ff8f00" stroke-width="2" />
+    <ellipse cx="100" cy="110" rx="40" ry="50" fill="#ff6f00" opacity="0.3" />
+  </symbol>
+  
+  <!-- Chilli -->
+  <symbol id="chilli" viewBox="0 0 200 200">
+    <path d="M100,40 Q110,60 105,80 Q140,100 130,150 Q120,180 100,180 Q80,180 70,150 Q60,100 95,80 Q90,60 100,40" fill="#d50000" />
+    <path d="M100,40 L100,60" stroke="#4caf50" stroke-width="4" />
+    <path d="M100,40 Q110,30 105,20 Q100,10 95,20 Q90,30 100,40" fill="#4caf50" />
+  </symbol>
+  
+  <!-- Drumstick -->
+  <symbol id="drumstick" viewBox="0 0 200 200">
+    <path d="M90,40 L110,40 L110,160 L90,160 Z" fill="#8bc34a" />
+    <path d="M85,160 L115,160 L115,170 L85,170 Z" fill="#689f38" />
+    <path d="M90,40 L110,40 L110,50 L90,50 Z" fill="#689f38" />
+    <path d="M95,50 L105,50 L105,160 L95,160 Z" fill="#7cb342" />
+  </symbol>
+  
+  <!-- Onion -->
+  <symbol id="onion" viewBox="0 0 200 200">
+    <ellipse cx="100" cy="120" rx="70" ry="60" fill="#e57373" />
+    <ellipse cx="100" cy="120" rx="60" ry="50" fill="#ef9a9a" />
+    <ellipse cx="100" cy="120" rx="40" ry="30" fill="#ffcdd2" />
+    <path d="M100,60 Q110,40 100,30 Q90,40 100,60" fill="#4caf50" />
+    <path d="M100,60 L100,80" stroke="#4caf50" stroke-width="4" />
+  </symbol>
+  
+  <!-- Cashew -->
+  <symbol id="cashew" viewBox="0 0 200 200">
+    <path d="M70,100 Q60,70 80,60 Q100,50 120,60 Q140,70 150,90 Q160,110 150,130 Q140,150 120,160 Q100,170 80,160 Q60,150 50,130 Q40,110 50,90 Q60,70 70,100" fill="#d7ccc8" />
+    <path d="M70,100 Q90,90 110,100 Q130,110 150,100" fill="none" stroke="#bcaaa4" stroke-width="2" />
+    <path d="M80,80 Q100,70 120,80" fill="none" stroke="#bcaaa4" stroke-width="2" />
+    <path d="M80,120 Q100,130 120,120" fill="none" stroke="#bcaaa4" stroke-width="2" />
+  </symbol>
+  
+  <!-- Use the symbols to create product images -->
+  <defs>
+    <pattern id="pomegranate-pattern" width="200" height="200" patternUnits="userSpaceOnUse">
+      <use href="#pomegranate" width="200" height="200" />
+    </pattern>
+    <pattern id="grapes-pattern" width="200" height="200" patternUnits="userSpaceOnUse">
+      <use href="#grapes" width="200" height="200" />
+    </pattern>
+    <pattern id="banana-pattern" width="200" height="200" patternUnits="userSpaceOnUse">
+      <use href="#banana" width="200" height="200" />
+    </pattern>
+    <pattern id="mango-pattern" width="200" height="200" patternUnits="userSpaceOnUse">
+      <use href="#mango" width="200" height="200" />
+    </pattern>
+    <pattern id="chilli-pattern" width="200" height="200" patternUnits="userSpaceOnUse">
+      <use href="#chilli" width="200" height="200" />
+    </pattern>
+    <pattern id="drumstick-pattern" width="200" height="200" patternUnits="userSpaceOnUse">
+      <use href="#drumstick" width="200" height="200" />
+    </pattern>
+    <pattern id="onion-pattern" width="200" height="200" patternUnits="userSpaceOnUse">
+      <use href="#onion" width="200" height="200" />
+    </pattern>
+    <pattern id="cashew-pattern" width="200" height="200" patternUnits="userSpaceOnUse">
+      <use href="#cashew" width="200" height="200" />
+    </pattern>
+  </defs>
+  
+  <!-- Sample images for reference -->
+  <rect x="0" y="0" width="200" height="150" fill="url(#pomegranate-pattern)" />
+  <rect x="200" y="0" width="200" height="150" fill="url(#grapes-pattern)" />
+  <rect x="400" y="0" width="200" height="150" fill="url(#banana-pattern)" />
+  <rect x="600" y="0" width="200" height="150" fill="url(#mango-pattern)" />
+  <rect x="0" y="150" width="200" height="150" fill="url(#chilli-pattern)" />
+  <rect x="200" y="150" width="200" height="150" fill="url(#drumstick-pattern)" />
+  <rect x="400" y="150" width="200" height="150" fill="url(#onion-pattern)" />
+  <rect x="600" y="150" width="200" height="150" fill="url(#cashew-pattern)" />
+  
+  <!-- Labels -->
+  <text x="100" y="140" text-anchor="middle" font-family="Arial" font-size="14" fill="white">Pomegranate</text>
+  <text x="300" y="140" text-anchor="middle" font-family="Arial" font-size="14" fill="white">Grapes</text>
+  <text x="500" y="140" text-anchor="middle" font-family="Arial" font-size="14" fill="white">Banana</text>
+  <text x="700" y="140" text-anchor="middle" font-family="Arial" font-size="14" fill="white">Mango</text>
+  <text x="100" y="290" text-anchor="middle" font-family="Arial" font-size="14" fill="white">Chilli</text>
+  <text x="300" y="290" text-anchor="middle" font-family="Arial" font-size="14" fill="white">Drumstick</text>
+  <text x="500" y="290" text-anchor="middle" font-family="Arial" font-size="14" fill="white">Onion</text>
+  <text x="700" y="290" text-anchor="middle" font-family="Arial" font-size="14" fill="white">Cashew</text>
+</svg>

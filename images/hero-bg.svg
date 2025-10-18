@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#27ae60;stop-opacity:0.2"/>
+      <stop offset="100%" style="stop-color:#2c3e50;stop-opacity:0.1"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Background rectangle -->
+  <rect width="1200" height="600" fill="url(#bg-gradient)"/>
+  
+  <!-- Abstract farm/agriculture pattern -->
+  <g opacity="0.3">
+    <!-- Stylized fields -->
+    <path d="M0 400 Q300 350 600 400 T1200 380 V600 H0 Z" fill="#27ae60" opacity="0.3"/>
+    <path d="M0 450 Q300 420 600 450 T1200 430 V600 H0 Z" fill="#27ae60" opacity="0.2"/>
+    <path d="M0 500 Q300 480 600 500 T1200 490 V600 H0 Z" fill="#27ae60" opacity="0.1"/>
+    
+    <!-- Stylized plants/crops -->
+    <g>
+      <!-- Repeating plant patterns -->
+      <g transform="translate(100, 350)">
+        <path d="M0 0 Q5 -20 10 0 Q15 -20 20 0" stroke="#27ae60" stroke-width="2" fill="none"/>
+        <path d="M10 0 V20" stroke="#27ae60" stroke-width="2" fill="none"/>
+      </g>
+      
+      <g transform="translate(200, 370)">
+        <path d="M0 0 Q5 -15 10 0 Q15 -15 20 0" stroke="#27ae60" stroke-width="2" fill="none"/>
+        <path d="M10 0 V15" stroke="#27ae60" stroke-width="2" fill="none"/>
+      </g>
+      
+      <g transform="translate(300, 360)">
+        <path d="M0 0 Q5 -20 10 0 Q15 -20 20 0" stroke="#27ae60" stroke-width="2" fill="none"/>
+        <path d="M10 0 V20" stroke="#27ae60" stroke-width="2" fill="none"/>
+      </g>
+      
+      <g transform="translate(400, 380)">
+        <path d="M0 0 Q5 -15 10 0 Q15 -15 20 0" stroke="#27ae60" stroke-width="2" fill="none"/>
+        <path d="M10 0 V15" stroke="#27ae60" stroke-width="2" fill="none"/>
+      </g>
+      
+      <g transform="translate(500, 365)">
+        <path d="M0 0 Q5 -20 10 0 Q15 -20 20 0" stroke="#27ae60" stroke-width="2" fill="none"/>
+        <path d="M10 0 V20" stroke="#27ae60" stroke-width="2" fill="none"/>
+      </g>
+      
+      <g transform="translate(600, 375)">
+        <path d="M0 0 Q5 -15 10 0 Q15 -15 20 0" stroke="#27ae60" stroke-width="2" fill="none"/>
+        <path d="M10 0 V15" stroke="#27ae60" stroke-width="2" fill="none"/>
+      </g>
+      
+      <g transform="translate(700, 355)">
+        <path d="M0 0 Q5 -20 10 0 Q15 -20 20 0" stroke="#27ae60" stroke-width="2" fill="none"/>
+        <path d="M10 0 V20" stroke="#27ae60" stroke-width="2" fill="none"/>
+      </g>
+      
+      <g transform="translate(800, 370)">
+        <path d="M0 0 Q5 -15 10 0 Q15 -15 20 0" stroke="#27ae60" stroke-width="2" fill="none"/>
+        <path d="M10 0 V15" stroke="#27ae60" stroke-width="2" fill="none"/>
+      </g>
+      
+      <g transform="translate(900, 360)">
+        <path d="M0 0 Q5 -20 10 0 Q15 -20 20 0" stroke="#27ae60" stroke-width="2" fill="none"/>
+        <path d="M10 0 V20" stroke="#27ae60" stroke-width="2" fill="none"/>
+      </g>
+      
+      <g transform="translate(1000, 380)">
+        <path d="M0 0 Q5 -15 10 0 Q15 -15 20 0" stroke="#27ae60" stroke-width="2" fill="none"/>
+        <path d="M10 0 V15" stroke="#27ae60" stroke-width="2" fill="none"/>
+      </g>
+      
+      <g transform="translate(1100, 365)">
+        <path d="M0 0 Q5 -20 10 0 Q15 -20 20 0" stroke="#27ae60" stroke-width="2" fill="none"/>
+        <path d="M10 0 V20" stroke="#27ae60" stroke-width="2" fill="none"/>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Decorative circles -->
+  <circle cx="100" cy="100" r="50" fill="#27ae60" opacity="0.1"/>
+  <circle cx="1100" cy="200" r="80" fill="#27ae60" opacity="0.1"/>
+  <circle cx="200" cy="500" r="30" fill="#27ae60" opacity="0.1"/>
+  <circle cx="1000" cy="400" r="60" fill="#27ae60" opacity="0.1"/>
+  
+  <!-- Abstract lines -->
+  <g stroke="#27ae60" stroke-width="1" opacity="0.2">
+    <line x1="0" y1="150" x2="1200" y2="150"/>
+    <line x1="0" y1="300" x2="1200" y2="300"/>
+  </g>
+</svg>
