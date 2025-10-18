@@ -27,6 +27,7 @@ Airavat_Web/
 │   ├── style.css           # Main stylesheet
 │   ├── responsive.css      # Responsive design styles
 │   └── pages.css           # Page-specific styles
+│   └── animation.css
 ├── js/
 │   └── script.js           # JavaScript functionality
 └── images/
@@ -85,7 +86,3 @@ The website is compatible with the following browsers:
 - All SVG illustrations and icons are custom-created for this project
 - Font Awesome for additional icons
 - Google Fonts for typography
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
