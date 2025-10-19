@@ -114,6 +114,7 @@ img {
 .logo-image {
     height: 60px !important;
     width: 280px !important;
+    object-fit: contain;
 }
 
 
