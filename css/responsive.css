@@ -165,9 +165,7 @@
         transform: translateX(-50%);
     }
     
-    .footer-contact p {
-        justify-content: center;
-    }
+
     
     .social-icons {
         justify-content: center;
@@ -214,4 +212,10 @@
     .footer-content {
         margin-bottom: 30px;
     }
+}
+.footer-content p {
+    margin-left: 10px;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 5PX;
 }
